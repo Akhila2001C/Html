@@ -1,0 +1,16 @@
+	.sts
+	{
+  	float: right;
+	margin-top: 30px;
+	background-color: #bfedee;
+	margin-left: 2px;
+	margin-right: 2px;
+	width: 100%;
+	}
+
+	.end
+	{
+	background-color: #7fcdcf;
+	padding-left: 30px;
+	padding-block-end: 1px;
+	}
